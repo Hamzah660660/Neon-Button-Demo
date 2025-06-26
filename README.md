@@ -4,7 +4,7 @@ This is a simple Flutter app demonstrating the use of neon-style buttons using t
 
 ## Features
 
-- Three customizable neon buttons
+- The customizable neon button
 - Dark background with glowing button effects
 - Easy to integrate and modify
 
