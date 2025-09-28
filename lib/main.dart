@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
               ),              const SizedBox(height: 70),
 
               NeonButton(
-                text: 'Click me',
+                text: 'Click ME',
                 neonColor: const Color.fromARGB(255, 179, 255, 0),
                 sparkCount: 50,
                 width: 260,

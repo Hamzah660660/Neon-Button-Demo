@@ -173,8 +173,7 @@ class _NeonButtonState extends State<NeonButton>
   }
 }
 
-class SparkPainter extends CustomPainter {
-  final Color color;
+class SparkPainter extends CustomPainter {  final Color color;
   final double intensity;
   final List<Spark> sparks;
   final Size area;
@@ -185,7 +184,7 @@ class SparkPainter extends CustomPainter {
     required this.sparks,
     required this.area,
   });
-
+//JDSLAJD
   @override
   void paint(Canvas canvas, Size size) {
     final Paint paint = Paint()
