@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Neon Button Demo',
+      
       home: Scaffold(
         backgroundColor: Colors.black,
         body: Center(    
