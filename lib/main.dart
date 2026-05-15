@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
 
       
-      title: 'Neon Button Demo',
+      title: 'Neon Button',
        
        
       home: Scaffold(
