@@ -11,9 +11,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp( 
 
-      
+       
       debugShowCheckedModeBanner: false,
-
       title: 'Neon Button',
        
       home: Scaffold(
